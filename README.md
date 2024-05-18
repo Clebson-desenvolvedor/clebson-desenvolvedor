@@ -18,6 +18,8 @@
   <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
 Acho fascinante o que podemos fazer com programação, sempre gostei da área de tecnologia e gosto de aprender coisas novas.
 
 
