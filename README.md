@@ -1,3 +1,3 @@
 ### Olá, sou Clebson Araújo
 
-[![LinkedIn](https://www.linkedin.com/in/clebson-araujo-programador/)](https://www.linkedin.com/in/clebson-araujo-programador/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clebson-araujo-programador/)
