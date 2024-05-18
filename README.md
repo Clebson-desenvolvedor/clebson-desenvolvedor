@@ -4,7 +4,7 @@
 
 ![Clebson's GitHub stats](https://github-readme-stats.vercel.app/api?username=clebson-desenvolvedor&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clebson-desenvolvedor&langs_count=8)
 
 ### Tecnologias e Competências
 
